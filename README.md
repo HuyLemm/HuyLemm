@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">I am Alvin (Huy Lam) </h1>
-<p align="center">🎓 I'm working towards my Bachelor's degree in Computer Science at KHTN Univeristy</p>
+<p align="center">🎓 I'm working towards my Bachelor's degree in Computer Science at Science of Univeristy</p>
 <p align="center">📚 I’ve been honored with the Founder Scholarship, and International Student Grant, and made the Dean’s List!</p>
 <p align="center">💻 I love diving into various technologies like Python, Java, C++, JavaScript, HTML, CSS, ReactJS, and more.</p>
 
@@ -25,7 +25,7 @@
 
 <h1>Experience</h1>
 <ul>
-  <li>Mobile and FullStack Engineer @ HSC UNT</li>
+  <li>IT Intern @ CP VietNam Coporation</li>
   <li>Software Engineer Fellowship @ Headstarter AI</li>
   <li>Fullstack Development Intern @ ThankUPet</li>
   <li>Computer Science & Mathematics Teacher Assistant @ TCU</li>
