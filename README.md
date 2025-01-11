@@ -2,8 +2,8 @@
 
 <h1 align="center">I am Alvin (Huy Lam) </h1>
 <p align="center">🎓 I'm working towards my Bachelor's degree in Computer Science at Science of Univeristy</p>
-<p align="center">📚 I’ve been honored with the Founder Scholarship, and International Student Grant, and made the Dean’s List!</p>
-<p align="center">💻 I love diving into various technologies like Python, Java, C++, JavaScript, HTML, CSS, ReactJS, and more.</p>
+<p align="center">📚 I graduated with a Bachelor's degree from the University of Science in Vietnam, where I cultivated a deep passion for Software Developer and continuously improved my technical skills.</p>
+<p align="center">💻 I love diving into various technologies like Python, C++, JavaScript, HTML5, CSS3, ReactJS, ExpressJS, Power Platform and more.</p>
 
 <hr>
 
@@ -26,10 +26,7 @@
 <h1>Experience</h1>
 <ul>
   <li>IT Intern @ CP VietNam Coporation</li>
-  <li>Software Engineer Fellowship @ Headstarter AI</li>
-  <li>Fullstack Development Intern @ ThankUPet</li>
-  <li>Computer Science & Mathematics Teacher Assistant @ TCU</li>
-  <li>Software Engineer Internship @ FPT Software</li>
+  <li>ERP Technical Consultant OJT @ FPT Software</li>
 </ul>
 
 <h1>Certifications</h1>
