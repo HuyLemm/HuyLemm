@@ -36,7 +36,7 @@
   </a>
 </p>
 <hr>
-## ✨ Fun Fact
+<h2>✨ Fun Fact</h2> 
 I'm a passionate software developer with a strong interest in **algorithms**, **data structures**, and **problem-solving**. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.
 
 ## 🚀 LeetCode Progress
@@ -49,10 +49,6 @@ I'm a passionate software developer with a strong interest in **algorithms**, **
 - 🟢 **Easy:** 9  
 - 🟡 **Medium:** 2  
 - 🔴 **Hard:** 0  
-
-## 📊 Recent Activity
-
-![LeetCode Activity](https://github.com/your-username/your-repo-name/blob/main/path-to-image/image.png)
 
 ## 🌟 Why Problem-Solving?
 *"I believe that mastering algorithms and data structures is the key to building efficient and scalable software solutions. Problem-solving is not just a skill—it's a mindset that drives continuous growth."*
