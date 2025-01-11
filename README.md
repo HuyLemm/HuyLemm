@@ -44,7 +44,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
   
-<h1>Programming Languages & Frameworks</h1>
 
 <!--
 **HuyLemm/HuyLemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
