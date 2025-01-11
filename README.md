@@ -30,6 +30,14 @@
 </ul>
 
 <hr>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,git,github,nextjs,react,vite,html,css,spring,express,firebase,mongodb,mysql,postgres,aws,vercel,figma,npm,nodejs,postman,vscode" />
+  </a>
+</p>
+
+<hr>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -39,11 +47,6 @@
   
 <h1>Programming Languages & Frameworks</h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,git,github,nextjs,react,vite,html,css,spring,express,firebase,mongodb,mysql,postgres,aws,vercel,figma,npm,nodejs,postman,vscode" />
-  </a>
-</p>
 <!--
 **HuyLemm/HuyLemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
