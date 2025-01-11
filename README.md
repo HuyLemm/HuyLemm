@@ -37,7 +37,9 @@
 </p>
 <hr>
 <h2>✨ Fun Fact</h2> 
-I'm a passionate software developer with a strong interest in __algorithms__, **data structures**, and **problem-solving**. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.<br>
+I'm a passionate software developer with a strong interest in **algorithms**, (**data structures**), and **problem-solving**. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.
+
+<br>  <!-- Thêm dòng này để tạo khoảng cách lớn hơn -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/huylemm?theme=dark&font=Consolas)](https://leetcode.com/huylemm/)
 
