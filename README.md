@@ -38,7 +38,7 @@
 <hr>
 <h2>✨ Fun Fact</h2> 
 I'm a passionate software developer with a strong interest in **algorithms**, **data structures**, and **problem-solving**. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.
-
+<br/>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/huylemm?theme=dark&font=Consolas)](https://leetcode.com/huylemm/)
 
 <h3>📈 My Problem-Solving Journey</h3>
