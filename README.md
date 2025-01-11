@@ -29,8 +29,8 @@
   <li>StoryPrep (Story Based Learning) <br/> Technologies used: Clarifai, Python, CSS  </li>
 </ul>
 
-<h1>This project is built with a powerful and modern tech stack to ensure performance, scalability, and security. Below are the core technologies I utilized</h1>
 <p align="center">
+  <h2>This project is built with a powerful and modern tech stack to ensure performance, scalability, and security. Below are the core technologies I utilized</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,javascript,py,c,cs,cpp,git,github,nextjs,react,js,jquery,prisma,sklearn,wordpress,yarn,vite,html,htmx,css,spring,express,firebase,mongodb,mysql,postgres,arduino,bootstrap,aws,vercel,figma,npm,nodejs,postman,vscode" />
   </a>
