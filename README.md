@@ -35,6 +35,28 @@
     <img src="https://skillicons.dev/icons?i=java,javascript,py,c,cs,cpp,git,github,nextjs,react,js,jquery,prisma,sklearn,wordpress,yarn,vite,html,htmx,css,spring,express,firebase,mongodb,mysql,postgres,arduino,bootstrap,aws,vercel,figma,npm,nodejs,postman,vscode" />
   </a>
 </p>
+<hr>
+## ✨ Fun Fact
+I'm a passionate software developer with a strong interest in **algorithms**, **data structures**, and **problem-solving**. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.
+
+## 🚀 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/huylemm?theme=dark&font=Consolas)](https://leetcode.com/huylemm/)
+
+## 📈 My Problem-Solving Journey
+
+- 🔥 **Total Problems Solved:** 11  
+- 🟢 **Easy:** 9  
+- 🟡 **Medium:** 2  
+- 🔴 **Hard:** 0  
+
+## 📊 Recent Activity
+
+![LeetCode Activity](https://github.com/your-username/your-repo-name/blob/main/path-to-image/image.png)
+
+## 🌟 Why Problem-Solving?
+*"I believe that mastering algorithms and data structures is the key to building efficient and scalable software solutions. Problem-solving is not just a skill—it's a mindset that drives continuous growth."*
+
 
 <hr>
   
