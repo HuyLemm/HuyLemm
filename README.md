@@ -1,4 +1,4 @@
-#Hi There 👋
+<h1 Hi There 👋>
 
 <h1 align="center">I am Alvin (Huy Lam) </h1>
 <p align="center">🎓 I'm working towards my Bachelor's degree in Knowledge Engineering at Science of Univeristy in VietNam</p>
@@ -29,7 +29,7 @@
   <li>StoryPrep (Story Based Learning) <br/> Technologies used: Clarifai, Python, CSS  </li>
 </ul>
 
-<div>
+<hr>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
