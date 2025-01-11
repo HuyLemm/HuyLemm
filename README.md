@@ -1,4 +1,4 @@
-<h1 Hi There 👋> </h1>
+<h1>  Hi There 👋 </h1>
 
 <h1 align="center">I am Alvin (Huy Lam) </h1>
 <p align="center">🎓 I'm working towards my Bachelor's degree in Knowledge Engineering at Science of Univeristy in VietNam</p>
