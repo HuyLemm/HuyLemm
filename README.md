@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,javascript,py,kotlin,c,git,github,nextjs,react,redux,angular,vue,vite,html,css,apollo,graphql,spring,express,firebase,mongodb,mysql,postgres,supabase,docker,kubernetes,aws,heroku,gcp,vercel,figma,npm,nodejs,vim,linux,postman,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,git,github,nextjs,react,vite,html,css,spring,express,firebase,mongodb,mysql,postgres,aws,vercel,figma,npm,nodejs,postman,vscode" />
   </a>
 </p>
 
@@ -35,9 +35,14 @@
   <li>RedLado (Trading Platform Online) <br/> Technologies used: HTML5, CSS3, Javascript, Spring Boot, Bootstrap, Firebase Firestore</li>
   <li>CoreSift (Smart Text Tools Chrome Extension) <br/> Technologies used: Manifest V3, Python, Model</li>
   <li>CrossingRoad (Basic Crossing Road Terminal Game) <br/> Technologies used: C++, OOP Design</li>
-  <li>TextMining (Deep Text Explorer) <br/> Technologies used: Python, LLMs: T5, BARTpho, DistilBert, XLNet </li>
+  <li>TextMining (Deep Text Explorer) <br/> Technologies used: Python, PyTorch LLMs: T5, BARTpho, DistilBert, XLNet </li>
   <li>Polaris (Pet World Market) <br/> Technologies used: TypeScript, Javascript, ExpressJS, ViteJS, Tailwind CSS </li>
   <li>TextClassification (Deep Text Explorer) <br/> Technologies used: Python, LLMs: T5, BARTpho, DistilBert, XLNet </li>
+  <li>PetCollar (Pet Tracking Collar) <br/> Technologies used: ESP32, DHTesp temperature sensor, GPS module, MQTT, Node-RED, Firebase </li>
+  <li>CryptographicEncryption (Learn Cryptography) <br/> Technologies used: C++, Python, OpenSSL: RSA, DSA, ElGamal</li>
+  <li>StoryPrep (Story Based Learning) <br/> Technologies used: Clarifai, Python, CSS  </li>
+
+
 
 
 
