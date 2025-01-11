@@ -1,4 +1,4 @@
-## Hi there 👋
+#Hi There 👋
 
 <h1 align="center">I am Alvin (Huy Lam) </h1>
 <p align="center">🎓 I'm working towards my Bachelor's degree in Knowledge Engineering at Science of Univeristy in VietNam</p>
@@ -8,22 +8,8 @@
 <hr>
 
 <div>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuyLemm&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
-  
-<h1>Programming Languages & Frameworks</h1>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,git,github,nextjs,react,vite,html,css,spring,express,firebase,mongodb,mysql,postgres,aws,vercel,figma,npm,nodejs,postman,vscode" />
-  </a>
-</p>
-
-<h1>Experience</h1>
+  <h1>Experience</h1>
 <ul>
   <li>IT Intern @ CP VietNam Coporation, Ho Chi Minh, VietNam (June 2024 – August 2024)</li>
   <li>ERP Technical Consultant OJT @ FPT Software, Ho Chi Minh, VietNam (November 2024 - February 2025)</li>
@@ -41,12 +27,21 @@
   <li>PetCollar (Pet Tracking Collar) <br/> Technologies used: ESP32, DHTesp temperature sensor, GPS module, MQTT, Node-RED, Firebase </li>
   <li>CryptographicEncryption (Learn Cryptography) <br/> Technologies used: C++, Python, OpenSSL: RSA, DSA, ElGamal</li>
   <li>StoryPrep (Story Based Learning) <br/> Technologies used: Clarifai, Python, CSS  </li>
-
-
-
-
-
 </ul>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuyLemm&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
+  
+<h1>Programming Languages & Frameworks</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,git,github,nextjs,react,vite,html,css,spring,express,firebase,mongodb,mysql,postgres,aws,vercel,figma,npm,nodejs,postman,vscode" />
+  </a>
+</p>
 <!--
 **HuyLemm/HuyLemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
