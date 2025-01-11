@@ -30,7 +30,7 @@
 </ul>
 
 <p align="center">
-  <h3>This project is built with a powerful and modern tech stack to ensure performance, scalability, and security. Below are the core technologies I utilized</h3>
+  <h3>These projects are built with a powerful and modern tech stack to ensure performance, scalability, and security. Below are the core technologies I utilized</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,javascript,py,c,cs,cpp,git,github,nextjs,react,js,jquery,prisma,sklearn,wordpress,yarn,vite,html,htmx,css,spring,express,firebase,mongodb,mysql,postgres,arduino,bootstrap,aws,vercel,figma,npm,nodejs,postman,vscode" />
   </a>
