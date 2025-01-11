@@ -9,7 +9,7 @@
 
 <div>
 
-  <h1>Experience</h1>
+  <h1>Experiences</h1>
 <ul>
   <li>IT Intern @ CP VietNam Coporation, Ho Chi Minh, VietNam (June 2024 – August 2024)</li>
   <li>ERP Technical Consultant OJT @ FPT Software, Ho Chi Minh, VietNam (November 2024 - February 2025)</li>
@@ -29,6 +29,8 @@
   <li>StoryPrep (Story Based Learning) <br/> Technologies used: Clarifai, Python, CSS  </li>
 </ul>
 
+<div>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyLemm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuyLemm&theme=dark&hide_border=false)
