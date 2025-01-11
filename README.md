@@ -37,7 +37,7 @@
 </p>
 <hr>
 <h2>✨ Fun Fact</h2> 
-I'm a passionate software developer with a strong interest in **algorithms**, (**data structures**), and **problem-solving**. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.
+I'm a passionate software developer with a strong interest in <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>problem-solving</strong>. I continuously challenge myself with coding problems on LeetCode to sharpen my skills and explore new technologies.
 
 <br>  <!-- Thêm dòng này để tạo khoảng cách lớn hơn -->
 
