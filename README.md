@@ -3,7 +3,7 @@
 <h1 align="center">I am Alvin (Huy Lam) </h1>
 <p align="center">🎓 I'm working towards my Bachelor's degree in Knowledge Engineering at Science of Univeristy in VietNam</p>
 <p align="center">📚 I am in the final year of my Bachelor's program at the University of Science in Vietnam, focusing on developing practical skills and knowledge in my field.</p>
-<p align="center">💻 I love diving into various technologies like Python, C++, JavaScript, HTML5, CSS3, ReactJS, ExpressJS, Power Platform and more.</p>
+<p align="center">💻 I love diving into various technologies like Python, C#, JavaScript, Typescript, HTML5, CSS3, ReactJS, ExpressJS, Power Platform and more.</p>
 
 <hr>
 
